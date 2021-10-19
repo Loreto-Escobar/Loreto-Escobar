@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loreto-Escobar
-- 👀 I’m interested in java programjaing
+- 👀 I’m interested in java programming
 - 🌱 I’m currently learning Junit
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me loreto.escobar.g@gmail.com
